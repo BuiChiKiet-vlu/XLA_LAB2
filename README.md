@@ -1,4 +1,4 @@
-# README - Image Processing Menu Programs
+# README
 
 ## Mục tiêu của bài
 Bộ 4 chương trình xử lý ảnh này được xây dựng nhằm giúp sinh viên làm quen với các kỹ thuật biến đổi ảnh cơ bản và nâng cao trong lĩnh vực xử lý ảnh số. Thông qua việc xây dựng menu lựa chọn thao tác và áp dụng các thuật toán cụ thể, sinh viên có thể:
