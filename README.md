@@ -13,16 +13,11 @@ Bộ 4 chương trình xử lý ảnh này được xây dựng nhằm giúp sin
 
 ## Cấu trúc thư mục
 ```
-project_folder/
-├── exercise/            # Thư mục chứa ảnh gốc (.jpg, .png)
-├── output_cau1/         # Kết quả bài 1
-├── output_cau2/         # Kết quả bài 2
-├── output_cau3/         # Kết quả bài 3
-├── output_cau4/         # Kết quả bài 4
-├── Image Transform Menu 1.py
-├── Image Transform Menu 2.py
-├── Image Transform Menu 3.py
-├── Image Transform Menu 4.py
+├── exercise/ 
+├── Cau 1_lab2.ipynb
+├── Cau 2_lab2.ipynb
+├── Cau 3_lab2.ipynb
+├── Cau 4_Lab2.ipynb
 └── README.md
 ```
 
@@ -32,11 +27,9 @@ project_folder/
 - `numpy`
 - `math`
 - `matplotlib`
-- `PIL` (Python Imaging Library)
+- `PIL` 
 - `scipy`
 - `imageio.v2`
-
-> ❗ Không sử dụng bất kỳ thư viện nào ngoài danh sách trên
 
 ---
 
