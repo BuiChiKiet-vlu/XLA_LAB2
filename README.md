@@ -83,8 +83,11 @@ Kết quả được lưu trong thư mục `output_cau4`.
 
 ---
 
-## Người thực hiện
-SVTH: Bùi Chí Kiệt - 2374802010255
+## Sinh viên thực hiện
+Bùi Chí Kiệt - 2374802010255
 
-## Giảng Viên Hướng Dẫn
+## Giảng viên hướng dẫn
 TS. ĐỖ HỮU QUÂN
+
+## Tài liệu tham khảo
+Tài liệu thực hành lab2 môn xử lý ảnh số
