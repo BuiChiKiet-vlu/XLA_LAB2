@@ -83,22 +83,8 @@ Kết quả được lưu trong thư mục `output_cau4`.
 
 ---
 
-## Cách chạy chương trình
-Chạy từng file Python tương ứng bằng trình thông dịch Python:
-```bash
-python "Image Transform Menu 1.py"
-```
-...hoặc tương tự cho các file `Menu 2`, `Menu 3`, `Menu 4`
-
----
-
-## Lưu ý sử dụng
-- Các thư mục `output_cauX` sẽ được tự động tạo nếu chưa có.
-- Tệp ảnh đầu vào phải nằm trong thư mục `exercise/`.
-- Nếu chương trình không hiện ảnh, hãy đảm bảo thư viện `matplotlib` đang hoạt động đúng.
-
----
-
 ## Người thực hiện
-- [Tên sinh viên/nhóm được điền tại đây nếu cần]
-- [Ngày thực hiện: 2025-08]
+SVTH: Bùi Chí Kiệt - 2374802010255
+
+## Giảng Viên Hướng Dẫn
+TS. ĐỖ HỮU QUÂN
